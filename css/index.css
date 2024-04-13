@@ -1,4 +1,25 @@
-.nav-top{
-    background-color: black;
+.nav-top {
+    background-color: rgb(192, 114, 114) !important;
 }
-.nav-link{color: white !important;}
+
+.nav-link {
+    color: white !important;
+}
+
+footer {
+    background-color: rgb(192, 114, 114) !important;
+    text-align: center !important;
+    color: white;
+
+}
+
+.img-car {
+    max-height: 400px !important;
+}
+
+.divisao {
+    background-color: rgb(192, 114, 114) !important;
+    text-align: center !important;
+    padding: 2em !important;
+    color: white;
+}
