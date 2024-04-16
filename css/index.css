@@ -1,5 +1,5 @@
 .nav-top {
-    background-color: rgb(192, 114, 114) !important;
+    background-color: rgb(245,222,179) !important;
 }
 
 .nav-link {
@@ -7,7 +7,7 @@
 }
 
 footer {
-    background-color: rgb(192, 114, 114) !important;
+    background-color: rgb(245,222,179) !important;
     text-align: center !important;
     color: white;
 
@@ -18,8 +18,14 @@ footer {
 }
 
 .divisao {
-    background-color: rgb(192, 114, 114) !important;
+    background-color: rgb(245,222,179) !important;
     text-align: center !important;
     padding: 2em !important;
     color: white;
+}
+
+.carousel-caption {
+    background-color: rgba(172, 155, 123, 0.63) !important;
+    border-radius: 20px !important;
+    
 }
