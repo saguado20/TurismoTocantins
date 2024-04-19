@@ -29,3 +29,24 @@ footer {
     border-radius: 20px !important;
     
 }
+.sec-pacotes{
+    margin-left: 15% !important;
+    margin-right: 15% !important;
+    justify-content: center !important;
+    margin: 1% !important;
+}
+.card{
+    padding:1% !important;
+    margin: 0% 1% 1% 0% !important;
+}
+.card p{
+    text-align: justify !important;
+}
+.card h4{
+    color: darkorange !important;
+}
+.sec-contatos{
+    margin-bottom: 5% !important;
+    margin-left: 10% !important;
+    margin-right: 10% !important;
+}
