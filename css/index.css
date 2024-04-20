@@ -30,8 +30,8 @@ footer {
     
 }
 .sec-pacotes{
-    margin-left: 15% !important;
-    margin-right: 15% !important;
+    margin-left: 10% !important;
+    margin-right: 10% !important;
     justify-content: center !important;
     margin: 1% !important;
 }
@@ -46,7 +46,17 @@ footer {
     color: darkorange !important;
 }
 .sec-contatos{
-    margin-bottom: 5% !important;
+    margin-bottom: 10% !important;
     margin-left: 10% !important;
     margin-right: 10% !important;
+    margin-top: 5% !important;
+}
+.links{
+    text-align: center;
+    padding: 1em;
+    color: rgb(0, 0, 0);
+
+}
+.mapa{
+    margin-top: 5% !important;
 }
